@@ -1,4 +1,4 @@
-#OVERVIEW
+# OVERVIEW
 
 In-browser cryptojacking is an urgent threat to web users, where an attacker abuses the users' computing resources without obtaining their consent 
 Our task was to built a In-browser detection system, We Deviated a bit from the intially built work flow though there were not many changes we faced some difficulty while using or import a certain library.
