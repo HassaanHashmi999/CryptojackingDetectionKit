@@ -1,5 +1,5 @@
 # OVERVIEW
-
+## Report
 In-browser cryptojacking is an urgent threat to web users, where an attacker abuses the users' computing resources without obtaining their consent 
 Our task was to built a In-browser detection system, We Deviated a bit from the intially built work flow though there were not many changes we faced some difficulty while using or import a certain library.
 Firstly, We decided to built a Html script so we can monitor the resources of the CPU while running the script with the JS library embedded into the code,  We were faced with a problem, We could not find any working JS library used for crypto jacking we tried using coinhive but it was found that the domain of the coin hive lib was bought by another company. then we did some research and found another library known as coinimp which did not meet our standards as It was not that resourceful and we had to build a proper account to manage the library, We came upon this website Known as browsemine which converts your browser into a crypto mining system, we choose this library to embedded into our code which worked brilliantly.
